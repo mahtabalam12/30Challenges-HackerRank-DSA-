@@ -16,3 +16,10 @@ public class Day1 {
 
     
 }
+
+// input Hi
+// Output
+//Hello, World.
+//Hi 
+
+   
