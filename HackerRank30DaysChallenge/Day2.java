@@ -1,3 +1,18 @@
+/*
+Given the meal cost, tip percentage, and tax percentage, calculate and print the total meal cost. The result should be rounded to the nearest integer.
+
+Input Format
+
+Meal cost (double)
+
+Tip percentage (int)
+
+Tax percentage (int)
+
+Output Format
+Print the total meal cost rounded to the nearest integer.
+
+*/
 import java.util.*;
 
 public class Day2 {
@@ -20,3 +35,11 @@ public class Day2 {
         sc.close();
     }
 }
+/*
+ input 
+12.00
+20
+8
+Output
+15
+*/
